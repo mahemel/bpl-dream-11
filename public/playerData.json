@@ -1,0 +1,202 @@
+[
+    {
+        "playerName": "Virat Kohli",
+        "playerCountry": "India",
+        "playerType": "Batsman",
+        "rating": 9.5,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": 1000,
+        "image": "https://i.ibb.co.com/ZpwYBTFk/virat.webp"
+    },
+    {
+        "playerName": "Babar Azam",
+        "playerCountry": "Pakistan",
+        "playerType": "Batsman",
+        "rating": 9.3,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 950,
+        "image": "https://i.ibb.co.com/ymR6gBZ4/babar.webp"
+    },
+    {
+        "playerName": "Ben Stokes",
+        "playerCountry": "England",
+        "playerType": "All-rounder",
+        "rating": 9.0,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": 900,
+        "image": "https://i.ibb.co.com/XcHzFVb/ben.jpg"
+    },
+    {
+        "playerName": "Kane Williamson",
+        "playerCountry": "New Zealand",
+        "playerType": "Batsman",
+        "rating": 8.9,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 850,
+        "image": "https://i.ibb.co.com/vxRyMkNZ/kane.webp"
+    },
+    {
+        "playerName": "Rashid Khan",
+        "playerCountry": "Afghanistan",
+        "playerType": "Bowler",
+        "rating": 9.2,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": 800,
+        "image": "https://i.ibb.co.com/GQGfDHTv/rashid.webp"
+    },
+    {
+        "playerName": "Joe Root",
+        "playerCountry": "England",
+        "playerType": "Batsman",
+        "rating": 9.1,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 780,
+        "image": "https://i.ibb.co.com/V0RG2QfT/joe.jpg"
+    },
+    {
+        "playerName": "Steve Smith",
+        "playerCountry": "Australia",
+        "playerType": "Batsman",
+        "rating": 9.2,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": 760,
+        "image": "https://i.ibb.co.com/TDn6R0Xc/steve.webp"
+    },
+    {
+        "playerName": "David Warner",
+        "playerCountry": "Australia",
+        "playerType": "Batsman",
+        "rating": 8.8,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": 740,
+        "image": "https://i.ibb.co.com/W4Ht1CMX/david.webp"
+    },
+    {
+        "playerName": "Shakib Al Hasan",
+        "playerCountry": "Bangladesh",
+        "playerType": "All-rounder",
+        "rating": 9.4,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Slow left-arm orthodox",
+        "price": 720,
+        "image": "https://i.ibb.co.com/LD6GL3Cw/shakib.webp"
+    },
+    {
+        "playerName": "Jasprit Bumrah",
+        "playerCountry": "India",
+        "playerType": "Bowler",
+        "rating": 9.3,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 690,
+        "image": "https://i.ibb.co.com/N2NfJK0J/bumrah.jpg"
+    },
+    {
+        "playerName": "Trent Boult",
+        "playerCountry": "New Zealand",
+        "playerType": "Bowler",
+        "rating": 8.9,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Left-arm fast-medium",
+        "price": 660,
+        "image": "https://i.ibb.co.com/FkPmzc98/trent.jpg"
+    },
+    {
+        "playerName": "Kagiso Rabada",
+        "playerCountry": "South Africa",
+        "playerType": "Bowler",
+        "rating": 9.0,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 630,
+        "image": "https://i.ibb.co.com/LhxfYSGS/kagiso.jpg"
+    },
+    {
+        "playerName": "Jos Buttler",
+        "playerCountry": "England",
+        "playerType": "Wicketkeeper",
+        "rating": 9.1,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "N/A",
+        "price": 630,
+        "image": "https://i.ibb.co.com/9kKFy1CL/jos.jpg"
+    },
+    {
+        "playerName": "Quinton de Kock",
+        "playerCountry": "South Africa",
+        "playerType": "Wicketkeeper",
+        "rating": 8.8,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "N/A",
+        "price": 620,
+        "image": "https://i.ibb.co.com/xqK3kxNG/quinton.webp"
+    },
+    {
+        "playerName": "Hardik Pandya",
+        "playerCountry": "India",
+        "playerType": "All-rounder",
+        "rating": 8.9,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": 615,
+        "image": "https://i.ibb.co.com/vxs4fCFY/hardik.avif"
+    },
+    {
+        "playerName": "Andre Russell",
+        "playerCountry": "West Indies",
+        "playerType": "All-rounder",
+        "rating": 9.0,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 610,
+        "image": "https://i.ibb.co.com/0jfm5ygw/andre.jpg"
+    },
+    {
+        "playerName": "Glenn Maxwell",
+        "playerCountry": "Australia",
+        "playerType": "All-rounder",
+        "rating": 8.7,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 650,
+        "image": "https://i.ibb.co.com/tPDqkwsk/glenn.webp"
+    },
+    {
+        "playerName": "Muttiah Muralitharan",
+        "playerCountry": "Sri Lanka",
+        "playerType": "Bowler",
+        "rating": 9.5,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 800,
+        "image": "https://i.ibb.co.com/5XxLF1zw/muttiah.avif"
+    },
+    {
+        "playerName": "Lasith Malinga",
+        "playerCountry": "Sri Lanka",
+        "playerType": "Bowler",
+        "rating": 9.1,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 990,
+        "image": "https://i.ibb.co.com/dwwtNfqZ/malinga.jpg"
+    },
+    {
+        "playerName": "AB de Villiers",
+        "playerCountry": "South Africa",
+        "playerType": "Batsman",
+        "rating": 9.6,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": 999,
+        "image": "https://i.ibb.co.com/HL0tzB5m/abde.webp"
+    }
+]
