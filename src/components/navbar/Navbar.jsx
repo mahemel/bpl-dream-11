@@ -3,7 +3,7 @@ import coinImg from "./../../assets/coin.png";
 
 const Navbar = ({ coin }) => {
     return (
-        <div className="sticky top-0">
+        <div className="sticky top-0 z-40">
             <div className="navbar bg-base-100 shadow-sm">
                 <div className="flex-none">
                     <button className="btn btn-square btn-ghost">

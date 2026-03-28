@@ -3,16 +3,15 @@ import Banner from "./components/banner/Banner";
 import Navbar from "./components/navbar/Navbar";
 import Players from "./components/players/Players";
 import "./App.css";
-import Modal from "./components/modals/Modal";
 import { ToastContainer } from "react-toastify";
 
 const fetchPlayer = async () => {
     const res = await fetch("/playerData.json");
     return res.json();
 };
+const playerPromise = fetchPlayer();
 
 function App() {
-    const playerPromise = fetchPlayer();
     const [coin, setCoin] = useState(10000);
     return (
         <>
@@ -20,7 +19,9 @@ function App() {
             <Banner></Banner>
             <Suspense
                 fallback={
-                    <span className="loading loading-dots loading-xl"></span>
+                    <div className="flex justify-center">
+                        <span className="loading loading-dots loading-xl mx-auto"></span>
+                    </div>
                 }
             >
                 <Players
